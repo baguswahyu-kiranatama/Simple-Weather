@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Simple Weather Apps</string>
+    <string name="label_toolbar_favorite">Favorite Location</string>
+    <string name="label_toolbar_search">Search Location</string>
+    <string name="label_menu_add_favorite">Add to favorite</string>
+    <string name="label_menu_favorite">Favorite location</string>
+    <string name="label_menu_delete">Delete</string>
+    <string name="text_temperature_range">%1$s&#xb0;/%2$s&#xb0;</string>
+    <string name="text_temperature">%1$s&#xb0;</string>
+    <string name="text_today">Today</string>
+    <string name="text_tomorrow">Tomorrow</string>
+    <string name="text_weather_and_feels">%1$s\nFeels like %2$s&#xb0;</string>
+    <string name="text_action_retry">Retry</string>
+    <string name="text_add_favorite_success">Favorite location added</string>
+</resources>
